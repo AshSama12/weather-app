@@ -1,2 +1,3 @@
 # weather-app
- can see weather city by city easily
+ 
+ I use javascript for this and it can see the weather city by city easily
